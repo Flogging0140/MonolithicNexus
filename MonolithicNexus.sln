@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonolithicNexusLibrary", "MonolithicNexusLibrary\MonolithicNexusLibrary.csproj", "{DE6C409A-4B53-496D-A1B6-9C7A427394A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6C409A-4B53-496D-A1B6-9C7A427394A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6C409A-4B53-496D-A1B6-9C7A427394A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6C409A-4B53-496D-A1B6-9C7A427394A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6C409A-4B53-496D-A1B6-9C7A427394A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED54A07F-9ED3-4826-BB08-41F3ED5B736D}
+	EndGlobalSection
+EndGlobal
